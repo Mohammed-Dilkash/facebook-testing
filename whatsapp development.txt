@@ -9,3 +9,7 @@ AUTHOR:Mohammed Dilkash
 3.last seen code
 
 4.attachments (images,audio,video) code
+
+pay upi method
+
+use scaner
